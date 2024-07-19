@@ -1,23 +1,23 @@
 # DAMS
 DAMS is Doctor Appointment and Medicine Scheduler  program.
 
-a) Doctor : Doctors can view their appointments and patient requests. 
+a) Doctor : Doctors can view their appointments and patient requests.<br> 
 
-*• Login / view dashboard 
+• Login / view dashboard 
 • Approve appointment  
 • Search and view patients list 
 • Manage settings 
 • Cancel appointment  
 • View Medicine schedule list 
 
-b) Patient : Patients can search for and book appointments with their preferred doctors. They can also use the Medicine System for their medication schedules. 
+b) Patient : Patients can search for and book appointments with their preferred doctors. They can also use the Medicine System for their medication schedules.<br> 
 • Login/ book appointment 
 • View appointment  
 • Search and view doctors list 
 • Manage settings 
 • View medicine schedule list 
 
-c) Administrator : Administrators manage the list of available doctors in the system. 
+c) Administrator : Administrators manage the list of available doctors in the system. <br>
 • Login/ manage Patient 
 • Manage doctor/Manage appointment 
 • Manage medicine Schedule and list 
@@ -27,15 +27,14 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 ## DAMS admin, users, patients and doctors username and password.
 
 Medicine Sheduler
-1. dbhatta, 123
-2. hpoudel, 123
-
+i) dbhatta, 123
+ii) hpoudel, 123
+<br>
 1. admin
-
 admin@doc.com
 123
 
-
+<br>
 2. Doctor list
 
 NMC NO: 2242
@@ -57,10 +56,9 @@ CONSULTANT PHYSICIAN[IM]
 NMC NO: 2187
 DR. RAMESH BASNYAT
 CONSULTANT CHEST PHYSICIAN[GastoInt]
-
+<br>
 
 3. Patients
-
-Hari
-Sakar
-Durga
+a) Hari
+b) Sakar
+c) Durga
