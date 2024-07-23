@@ -63,3 +63,14 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 - Hari
 - Sakar
 - Durga
+
+
+## Some of Screenshots :
+HomePage             
+:-------------------------:
+![homepage](https://raw.githubusercontent.com/diveshthapa/DAMS/main/img/home%20page.png)
+<hr>
+
+Medicine Scheduler             
+:-------------------------:
+![medicinescheduler](https://raw.githubusercontent.com/diveshthapa/DAMS/main/img/medicine%20scheduler.png)
