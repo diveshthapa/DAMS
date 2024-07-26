@@ -27,16 +27,11 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 
 ### DAMS admin, users, patients and doctors username and password.
 
-1. Medicine Sheduler
-- dbhatta, 123
-- hpoudel, 123
+1. Admin
+- `admin@doc.com`, 123
 <br>
 
-2. Admin
-- admin@doc.com, 123
-<br>
-
-3. Doctor list
+2. Doctor list
 
 - NMC NO: 2242
   Dr. Sanjay Lakhey
@@ -59,7 +54,7 @@ c) Administrator : Administrators manage the list of available doctors in the sy
   CONSULTANT CHEST PHYSICIAN[GastoInt]
  <br>
 
-  4. Patients
+  3. Patients
 - Hari
 - Sakar
 - Durga
@@ -70,7 +65,3 @@ HomePage
 :-------------------------:
 ![homepage](https://raw.githubusercontent.com/diveshthapa/DAMS/main/img/home%20page.png)
 <hr>
-
-Medicine Scheduler             
-:-------------------------:
-![medicinescheduler](https://raw.githubusercontent.com/diveshthapa/DAMS/main/img/medicine%20scheduler.png)
