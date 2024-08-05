@@ -28,8 +28,13 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 ### DAMS admin, users, patients and doctors username and password.
 
 1. Admin
-- `admin@doc.com`, 123
-<br>
+
+|     Admin Dashboard     |     Doctor Dashboard     |       Patient Dashboard     |
+| ----------------------- | ------------------------ | --------------------------- |
+| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
+| Password: `123`         | Password: `123`          |   Password: `123`           |
+
+<br>  
 
 2. Doctor list
 
@@ -47,11 +52,11 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 
 - NMC NO: 2350
   DR. SARITA PANDEY
-  CONSULTANT PHYSICIAN[IM]
+  CONSULTANT PHYSICIAN [IM]
 
 - NMC NO: 2187
   DR. RAMESH BASNYAT
-  CONSULTANT CHEST PHYSICIAN[GastoInt]
+  CONSULTANT CHEST PHYSICIAN [GastoInt]
  <br>
 
   3. Patients
@@ -59,9 +64,21 @@ c) Administrator : Administrators manage the list of available doctors in the sy
 - Sakar
 - Durga
 
+<br>
+
+## The Project was developed using the following:
+
+- Apache Version: 	`2.4.39`
+
+- PHP Version: 		`7.3.5`
+
+- Server Software: 	`Apache/2.4.39 (Win64) PHP/7.3.5`
+
+- MySQL Version: 		`5.7.26`
+
+<br>
 
 ## Some of Screenshots :
 HomePage             
 :-------------------------:
 ![homepage](https://raw.githubusercontent.com/diveshthapa/DAMS/main/img/home%20page.png)
-<hr>
